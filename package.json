@@ -1,0 +1,14 @@
+{
+  "name": "pendu",
+  "version": "1.0.0",
+  "description": "jeu du pendu",
+  "main": "client.js",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "author": "Thomas S.",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.33"
+  }
+}
